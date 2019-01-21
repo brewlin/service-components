@@ -11,9 +11,9 @@
     ],
     "autoload":{
         "psr-4":{
-            "ServiceComponents\\Rpc\\":"src/rpc",
-            "serviceComponents\\Common\\":"src/common",
-            "serviceComponents\\Enum\\":"src/enum"
+            "ServiceComponents\\Rpc\\":"src/rpc/",
+            "serviceComponents\\Common\\":"src/common/",
+            "serviceComponents\\Enum\\":"src/enum/"
         }
 
     },
